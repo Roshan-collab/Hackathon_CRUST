@@ -1,0 +1,12 @@
+Pre-requisites :-
+Python ver 3.7
+Python libraries :- Flask
+
+Procedure
+1. Open 'crust.py' in python and execute by pressing F5 (if running in default python idle).
+2. Once executed open web browser (any recommended) and enter '127.0.0.1:5000' in address and press enter.
+3. A here map will open up showing some default locations of demo environment.
+
+Further development :-
+1. Real time location updataion,routing for place where user wants to plan
+
